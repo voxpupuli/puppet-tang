@@ -1,3 +1,5 @@
+# class tang::dropin
+# used by tang main class only.
 class tang::dropin {
   assert_private()
 
