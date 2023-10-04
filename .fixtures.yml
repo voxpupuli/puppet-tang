@@ -4,3 +4,4 @@
 fixtures:
   forge_modules:
     systemd: "puppet/systemd"
+    stdlib: "puppetlabs/stdlib"
