@@ -21,5 +21,4 @@ class tang (
 
   Class['tang::install']
   -> Class['tang::service']
-
 }
