@@ -1,5 +1,14 @@
 # tang
 
+[![Build Status](https://github.com/voxpupuli/puppet-tang/workflows/CI/badge.svg)](https://github.com/voxpupuli/puppet-tang/actions?query=workflow%3ACI)
+[![Release](https://github.com/voxpupuli/puppet-tang/actions/workflows/release.yml/badge.svg)](https://github.com/voxpupuli/puppet-tang/actions/workflows/release.yml)
+[![Puppet Forge](https://img.shields.io/puppetforge/v/puppet/tang.svg)](https://forge.puppetlabs.com/puppet/tang)
+[![Puppet Forge - downloads](https://img.shields.io/puppetforge/dt/puppet/tang.svg)](https://forge.puppetlabs.com/puppet/tang)
+[![Puppet Forge - endorsement](https://img.shields.io/puppetforge/e/puppet/tang.svg)](https://forge.puppetlabs.com/puppet/tang)
+[![Puppet Forge - scores](https://img.shields.io/puppetforge/f/puppet/tang.svg)](https://forge.puppetlabs.com/puppet/tang)
+[![puppetmodule.info docs](http://www.puppetmodule.info/images/badge.png)](http://www.puppetmodule.info/m/puppet-tang)
+[![AGPL v3 License](https://img.shields.io/github/license/voxpupuli/puppet-tang.svg)](LICENSE)
+
 Tang is a server for binding data to network presence.
 
 ## Table of Contents
