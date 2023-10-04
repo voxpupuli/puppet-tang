@@ -1,5 +1,5 @@
-# tang::service class
-# used by tang main class only.
+# @summary tang::service class used by tang main class only.
+# @api private
 class tang::service {
   assert_private()
 
