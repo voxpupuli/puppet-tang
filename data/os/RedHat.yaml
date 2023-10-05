@@ -2,4 +2,4 @@
 tang::package_name:
   - 'tang'
 
-tang::service_name: 'tang.service'
+tang::service_name: 'tangd.service'
