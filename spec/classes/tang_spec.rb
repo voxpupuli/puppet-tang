@@ -14,7 +14,7 @@ describe 'tang' do
       it { is_expected.to contain_class('tang::service') }
       it { is_expected.to contain_package('tang') }
       it { is_expected.to contain_systemd__dropin_file('override.conf') }
-      it { is_expected.to contain_service('tang.socket') }
+      it { is_expected.to contain_service('tang.service') }
     end
   end
 end
