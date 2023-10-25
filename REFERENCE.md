@@ -43,9 +43,13 @@ Data type: `Array[String[1]]`
 
 The name of the tang package
 
+Default value: `['tang']`
+
 ##### <a name="-tang--service_name"></a>`service_name`
 
 Data type: `String[1]`
 
 Name of the tang service
+
+Default value: `'tangd.socket'`
 
