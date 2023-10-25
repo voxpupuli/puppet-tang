@@ -5,6 +5,6 @@ class tang::dropin {
 
   systemd::dropin_file { 'override.conf':
     unit    => 'tangd.socket',
-    content => "[Socket]\nListenStream=7500\n",
+    content => "[Socket]\nListenStream=\nListenStream=7500\n",
   }
 }
