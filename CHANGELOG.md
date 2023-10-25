@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 Each new release typically also includes the latest modulesync defaults.
 These should not affect the functionality of the module.
 
+## [v0.1.1](https://github.com/voxpupuli/puppet-tang/tree/v0.1.1) (2023-10-25)
+
+[Full Changelog](https://github.com/voxpupuli/puppet-tang/compare/v0.1.0...v0.1.1)
+
+**Fixed bugs:**
+
+- metadata.json: Add missing summary and source [\#20](https://github.com/voxpupuli/puppet-tang/pull/20) ([bastelfreak](https://github.com/bastelfreak))
+
 ## [v0.1.0](https://github.com/voxpupuli/puppet-tang/tree/v0.1.0) (2023-10-25)
 
 [Full Changelog](https://github.com/voxpupuli/puppet-tang/compare/c1aec43ea416daa7f7d9af88f2b72e094aded154...v0.1.0)
