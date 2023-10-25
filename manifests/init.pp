@@ -8,8 +8,8 @@
 # @example
 #   include tang
 class tang (
-  Array[String[1]] $package_name,
-  String[1]        $service_name,
+  Array[String[1]] $package_name = ['tang'],
+  String[1]        $service_name = 'tangd.socket',
 ) {
   include tang::install
   include tang::dropin
