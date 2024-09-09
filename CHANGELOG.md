@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 Each new release typically also includes the latest modulesync defaults.
 These should not affect the functionality of the module.
 
+## [v0.2.0](https://github.com/voxpupuli/puppet-tang/tree/v0.2.0) (2024-09-09)
+
+[Full Changelog](https://github.com/voxpupuli/puppet-tang/compare/v0.1.1...v0.2.0)
+
+**Merged pull requests:**
+
+- update puppet-systemd upper bound to 8.0.0 [\#26](https://github.com/voxpupuli/puppet-tang/pull/26) ([TheMeier](https://github.com/TheMeier))
+
 ## [v0.1.1](https://github.com/voxpupuli/puppet-tang/tree/v0.1.1) (2023-10-25)
 
 [Full Changelog](https://github.com/voxpupuli/puppet-tang/compare/v0.1.0...v0.1.1)
