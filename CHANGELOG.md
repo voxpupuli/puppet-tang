@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 Each new release typically also includes the latest modulesync defaults.
 These should not affect the functionality of the module.
 
+## [v1.0.0](https://github.com/voxpupuli/puppet-tang/tree/v1.0.0) (2025-04-22)
+
+[Full Changelog](https://github.com/voxpupuli/puppet-tang/compare/v0.2.0...v1.0.0)
+
+**Breaking changes:**
+
+- drop support for EL7 & centos 8 [\#32](https://github.com/voxpupuli/puppet-tang/pull/32) ([jhoblitt](https://github.com/jhoblitt))
+
+**Implemented enhancements:**
+
+- \(metadata.json\) bump systemd to include 8.x [\#36](https://github.com/voxpupuli/puppet-tang/pull/36) ([badenerb](https://github.com/badenerb))
+- metadata.json: Add OpenVox [\#35](https://github.com/voxpupuli/puppet-tang/pull/35) ([jstraw](https://github.com/jstraw))
+
 ## [v0.2.0](https://github.com/voxpupuli/puppet-tang/tree/v0.2.0) (2024-09-09)
 
 [Full Changelog](https://github.com/voxpupuli/puppet-tang/compare/v0.1.1...v0.2.0)
