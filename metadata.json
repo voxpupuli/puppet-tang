@@ -1,6 +1,6 @@
 {
   "name": "puppet-tang",
-  "version": "1.0.0",
+  "version": "1.0.1-rc0",
   "author": "Vox Pupuli",
   "summary": "deploys Tang, a server for binding data to network presence.",
   "license": "AGPL-3.0",
