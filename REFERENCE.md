@@ -24,7 +24,7 @@ This module installs the tang server which will be used by clevis.
 
 #### Examples
 
-##### 
+#####
 
 ```puppet
 include tang
@@ -52,4 +52,3 @@ Data type: `String[1]`
 Name of the tang service
 
 Default value: `'tangd.socket'`
-
