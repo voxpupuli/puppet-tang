@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 Each new release typically also includes the latest modulesync defaults.
 These should not affect the functionality of the module.
 
+## [v2.0.0](https://github.com/voxpupuli/puppet-tang/tree/v2.0.0) (2026-10-28)
+
+[Full Changelog](https://github.com/voxpupuli/puppet-tang/compare/v1.0.0...v2.0.0)
+
+**Breaking changes:**
+
+- Drop puppet, update openvox minimum version to 8.19 [\#41](https://github.com/voxpupuli/puppet-tang/pull/41) ([TheMeier](https://github.com/TheMeier))
+
+**Implemented enhancements:**
+
+- puppet/systemd: Allow 11.x [\#52](https://github.com/voxpupuli/puppet-tang/pull/52) ([bastelfreak](https://github.com/bastelfreak))
+- Update requirements to allow OpenVox 9 [\#51](https://github.com/voxpupuli/puppet-tang/pull/51) ([sebastianrakel](https://github.com/sebastianrakel))
+
 ## [v1.0.0](https://github.com/voxpupuli/puppet-tang/tree/v1.0.0) (2025-04-22)
 
 [Full Changelog](https://github.com/voxpupuli/puppet-tang/compare/v0.2.0...v1.0.0)
